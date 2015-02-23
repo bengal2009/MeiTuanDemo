@@ -1,0 +1,2 @@
+C:\Users\Lin\AndroidStudioProjects\MeiTuanDemo\app\build\intermediates\classes\debug
+C:\Users\Lin\AndroidStudioProjects\MeiTuanDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ccd5bcb05c5516766647b7b025614e293b928560.jar
